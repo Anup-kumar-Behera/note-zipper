@@ -19,10 +19,17 @@ const notes = [
       category: "Entertainment",
     },
     {
-      _id: 4,
+      _id: "4",
       title: "Started React JS",
       content:
         "Made my first App in React JS, feels awesome to learn something new. I aim to be a full stack dev someday",
+      category: "Learning",
+    },
+    {
+      _id: "5",
+      title: "I am a Competitive Programmer",
+      content:
+        "I had achieved the rank 239 in codechef march long challenge.",
       category: "Learning",
     },
   ];
